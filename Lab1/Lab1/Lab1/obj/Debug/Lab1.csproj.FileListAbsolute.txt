@@ -1,0 +1,13 @@
+D:\CS\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\CS\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\CS\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\CS\Lab1\Lab1\Lab1\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\CS\Lab1\Lab1\Lab1\bin\Debug\System.IO.Compression.dll
+D:\CS\Lab1\Lab1\Lab1\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CS\Lab1\Lab1\Lab1\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\CS\Lab1\Lab1\Lab1\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\CS\Lab1\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\CS\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\CS\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+D:\CS\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\CS\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
